@@ -1,0 +1,134 @@
+*
+{
+    margin : 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1
+{
+    font-family: 'Oswald', sans-serif;
+}
+a
+{
+    font-family: 'Oswald', sans-serif;
+}
+p
+{
+    font-family: 'Oswald', sans-serif;
+}
+
+h2
+{
+    font-family: 'Oswald', sans-serif;
+}
+br
+{
+    font-family: 'Oswald', sans-serif;
+}
+
+.header
+{
+    display: flex;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    background-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.lien
+{
+    text-decoration: none;
+    color: white;
+}
+.img_back
+{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.partie_1
+{
+    margin-top: 70px;
+    position:flex;
+    display: flex;
+    align-items: center;
+}
+
+.partie_2
+{
+    background-color: rgb(25, 22, 22);
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+.T1
+{
+    text-align: center;
+    color:white;
+}
+
+.langue
+{
+    display: flex;
+    justify-content: center;
+    color:white;
+}
+
+.vid
+{
+    display:flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.l
+{
+    text-decoration: underline;
+}
+
+.espace1
+{
+    width:750px;
+}
+
+.espace2
+{
+    width:70px;
+}
+
+.partie_3
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.cara 
+{
+    margin-bottom: 40px;
+    text-decoration: underline;
+}
+#text
+{
+    padding-top:2%;
+    padding-left:25%;
+    font-size: larger;
+}
+#partie_g
+{
+    white-space: nowrap;
+    
+}
+.CA
+{
+    margin-bottom: 5px;
+}
